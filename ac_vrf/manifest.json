@@ -1,0 +1,11 @@
+{
+    "name": "AC VRF Control",
+    "description": "Control McQuay VRF air conditioners via Modbus",
+    "files": [
+      "ac_vrf.h",
+      "ac_vrf.cpp"
+    ],
+    "dependencies": [],
+    "esphome_version": "2025.4.2"
+  }
+  

@@ -20,11 +20,3 @@ external_components:
   - source: github://your-username/ESPHomeExternalComponentsLib@main
     components: [ac_vrf]
 
-#### Directory Structure
-
-ESPHomeExternalComponentsLib/
-├── ac_vrf/
-│   ├── manifest.json
-│   ├── ac_vrf.cpp
-│   └── ac_vrf.h
-└── README.md
